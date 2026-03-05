@@ -1,0 +1,19 @@
+/* css styles */
+
+/* Más aire y lectura */
+body { line-height: 1.65; }
+
+/* Cards un poco más “pro” */
+.card {
+  padding: 1rem;
+  border-radius: 18px;
+  border: 1px solid rgba(0,0,0,0.08);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.06);
+}
+
+/* Títulos un pelín más compactos */
+h1, h2, h3 { letter-spacing: -0.02em; }
+
+/* Links: limpios */
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }

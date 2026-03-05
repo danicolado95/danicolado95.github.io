@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dani"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: proyectos.qmd
+        text: Proyectos
+      - href: cuaderno.qmd
+        text: Cuaderno
+      - href: sobre-mi.qmd
+        text: Sobre mí
+      - href: cv.qmd
+        text: CV
+      - href: contacto.qmd
+        text: Contacto
+
+    right:
+      - icon: github
+        href: https://github.com/danicolado95
+      - icon: linkedin
+        href: https://linkedin.com/in/danielcolado95
+      - icon: twitter
+        href: https://x.com/DaniColado
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+

@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dani",
+    "section": "",
+    "text": "Vengo de Ciencias Políticas y tengo un máster en análisis de datos. Me interesa explicar fenómenos políticos, sociales y culturales con gráficos claros y análisis reproducibles en R.\nAhora mismo: construyendo un portfolio público proyecto a proyecto.\n\nGitHub, LinkedIn y Twitter/X en la barra superior\nCódigo y metodología incluidos en cada análisis\n\n\n\n\n\n\n\n\n\nContacto rápido\n\n\n\n\nLinkedIn\nGitHub\nTwitter/X\nEmail (en la pestaña Contacto)"
+  },
+  {
+    "objectID": "proyectos/efecto_rufian.html",
+    "href": "proyectos/efecto_rufian.html",
+    "title": "El efecto Rufián",
+    "section": "",
+    "text": "¿Qué pasaría con el reparto de escaños si ERC desapareciera y su voto se redistribuyera?"
+  },
+  {
+    "objectID": "proyectos/efecto_rufian.html#la-pregunta",
+    "href": "proyectos/efecto_rufian.html#la-pregunta",
+    "title": "El efecto Rufián",
+    "section": "",
+    "text": "¿Qué pasaría con el reparto de escaños si ERC desapareciera y su voto se redistribuyera?"
+  },
+  {
+    "objectID": "proyectos/efecto_rufian.html#resultado",
+    "href": "proyectos/efecto_rufian.html#resultado",
+    "title": "El efecto Rufián",
+    "section": "Resultado",
+    "text": "Resultado\n(Aquí irá el gráfico principal)"
+  },
+  {
+    "objectID": "proyectos/efecto_rufian.html#método",
+    "href": "proyectos/efecto_rufian.html#método",
+    "title": "El efecto Rufián",
+    "section": "Método",
+    "text": "Método\nSimulación de redistribución del voto entre partidos cercanos."
+  },
+  {
+    "objectID": "proyectos/efecto_rufian.html#código",
+    "href": "proyectos/efecto_rufian.html#código",
+    "title": "El efecto Rufián",
+    "section": "Código",
+    "text": "Código"
+  },
+  {
+    "objectID": "index.html#proyectos-destacados",
+    "href": "index.html#proyectos-destacados",
+    "title": "Dani",
+    "section": "Proyectos destacados",
+    "text": "Proyectos destacados\n\n\n\nEl efecto Rufián\nSimulación de un escenario sin ERC y redistribución del voto/escaños.\nVer proyecto →\n\n\n\n\nBalón de Oro\nEdad, nacionalidad y patrones de repetición en los ganadores.\nVer proyecto →\n\n\n\n\nRiqueza por edad en España\nCohortes, desigualdad y estructura por edades.\nVer proyecto →"
+  },
+  {
+    "objectID": "index.html#qué-hago",
+    "href": "index.html#qué-hago",
+    "title": "Dani",
+    "section": "Qué hago",
+    "text": "Qué hago\n\n\nAnálisis\n\nLimpieza y transformación de datos (tidyverse)\nExploración y modelización sencilla\nReproducibilidad con Quarto\n\n\n\nVisualización\n\nggplot2 y diseño de gráficos\nStorytelling con datos\nPiezas listas para compartir en redes"
+  },
+  {
+    "objectID": "sobre-mi.html",
+    "href": "sobre-mi.html",
+    "title": "Sobre-mi",
+    "section": "",
+    "text": "Graduado en Ciencias Políticas y con un máster en análisis de datos.\nMe interesa especialmente el análisis de fenómenos políticos, sociales y culturales a través de datos y visualización.\nActualmente estoy desarrollando proyectos de análisis en R, con especial interés en:\n\nvisualización de datos\nanálisis político\nstorytelling con datos\n\nEste sitio web reúne algunos de mis proyectos y análisis."
+  },
+  {
+    "objectID": "sobre-mi.html#dani",
+    "href": "sobre-mi.html#dani",
+    "title": "Sobre-mi",
+    "section": "",
+    "text": "Graduado en Ciencias Políticas y con un máster en análisis de datos.\nMe interesa especialmente el análisis de fenómenos políticos, sociales y culturales a través de datos y visualización.\nActualmente estoy desarrollando proyectos de análisis en R, con especial interés en:\n\nvisualización de datos\nanálisis político\nstorytelling con datos\n\nEste sitio web reúne algunos de mis proyectos y análisis."
+  },
+  {
+    "objectID": "sobre-mi.html#intereses",
+    "href": "sobre-mi.html#intereses",
+    "title": "Sobre-mi",
+    "section": "Intereses",
+    "text": "Intereses\n\nPolítica y comportamiento electoral\n\nTecnología e inteligencia artificial\n\nDeporte y análisis de datos\n\nVisualización y comunicación de datos"
+  }
+]

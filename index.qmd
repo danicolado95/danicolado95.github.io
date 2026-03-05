@@ -1,0 +1,82 @@
+---
+title: "Dani"
+page-layout: full
+---
+
+::: {.columns}
+::: {.column width="65%"}
+
+# Analista de datos en R · Visualización · Storytelling
+
+Vengo de Ciencias Políticas y tengo un máster en análisis de datos. Me interesa explicar fenómenos políticos, sociales y culturales con **gráficos claros** y análisis reproducibles en R.
+
+**Ahora mismo:** construyendo un portfolio público proyecto a proyecto.
+
+- GitHub, LinkedIn y Twitter/X en la barra superior
+- Código y metodología incluidos en cada análisis
+
+:::
+
+::: {.column width="35%"}
+::: {.callout-note}
+## Contacto rápido
+- LinkedIn
+- GitHub
+- Twitter/X
+- Email (en la pestaña Contacto)
+:::
+:::
+:::
+
+---
+
+## Proyectos destacados
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+### El efecto Rufián
+Simulación de un escenario sin ERC y redistribución del voto/escaños.
+
+[Ver proyecto →](proyectos/efecto-rufian.qmd)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+### Balón de Oro
+Edad, nacionalidad y patrones de repetición en los ganadores.
+
+[Ver proyecto →](proyectos/balon-oro.qmd)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+### Riqueza por edad en España
+Cohortes, desigualdad y estructura por edades.
+
+[Ver proyecto →](proyectos/riqueza-edad.qmd)
+:::
+:::
+:::
+
+---
+
+## Qué hago
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+### Análisis
+- Limpieza y transformación de datos (tidyverse)
+- Exploración y modelización sencilla
+- Reproducibilidad con Quarto
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Visualización
+- ggplot2 y diseño de gráficos
+- Storytelling con datos
+- Piezas listas para compartir en redes
+:::
+:::

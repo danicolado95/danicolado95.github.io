@@ -1,0 +1,39 @@
+---
+title: "Sobre-mi"
+---
+
+::: {.columns}
+
+::: {.column width="35%"}
+
+![](img/foto_dani.jpg){width=90%}
+
+:::
+
+::: {.column width="65%"}
+
+## Dani
+
+Graduado en Ciencias Políticas y con un máster en análisis de datos.  
+Me interesa especialmente el análisis de fenómenos políticos, sociales y culturales a través de datos y visualización.
+
+Actualmente estoy desarrollando proyectos de análisis en **R**, con especial interés en:
+
+- visualización de datos
+- análisis político
+- storytelling con datos
+
+Este sitio web reúne algunos de mis proyectos y análisis.
+
+:::
+
+:::
+
+---
+
+## Intereses
+
+- Política y comportamiento electoral  
+- Tecnología e inteligencia artificial  
+- Deporte y análisis de datos  
+- Visualización y comunicación de datos

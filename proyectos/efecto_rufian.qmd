@@ -1,0 +1,21 @@
+---
+title: "El efecto Rufián"
+format: html
+---
+
+## La pregunta
+
+¿Qué pasaría con el reparto de escaños si ERC desapareciera y su voto se redistribuyera?
+
+## Resultado
+
+(Aquí irá el gráfico principal)
+
+## Método
+
+Simulación de redistribución del voto entre partidos cercanos.
+
+## Código
+
+```{r}
+# aquí irá el código
