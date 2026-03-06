@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Dani"
+  title: "Daniel Colado - Data ananlyst"
   navbar:
     left:
       - href: index.qmd

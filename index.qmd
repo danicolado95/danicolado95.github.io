@@ -33,32 +33,19 @@ Vengo de Ciencias Políticas y tengo un máster en análisis de datos. Me intere
 ## Proyectos destacados
 
 ::: {.grid}
-::: {.g-col-12 .g-col-md-4}
-::: {.card}
+
+::: {.g-col-12 .g-col-md-6}
+
 ### El efecto Rufián
-Simulación de un escenario sin ERC y redistribución del voto/escaños.
 
-[Ver proyecto →](proyectos/efecto-rufian.qmd)
-:::
-:::
+¿Tiene sentido la estrategia de Gabriel Rufián?
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card}
-### Balón de Oro
-Edad, nacionalidad y patrones de repetición en los ganadores.
+Analizo su liderazgo y simulo el escenario electoral para 2027 bajo esta nueva premisa.
 
-[Ver proyecto →](proyectos/balon-oro.qmd)
-:::
+[Ver análisis →](proyectos/efecto-rufian.qmd)
+
 :::
 
-::: {.g-col-12 .g-col-md-4}
-::: {.card}
-### Riqueza por edad en España
-Cohortes, desigualdad y estructura por edades.
-
-[Ver proyecto →](proyectos/riqueza-edad.qmd)
-:::
-:::
 :::
 
 ---

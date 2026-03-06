@@ -17,5 +17,4 @@ Simulación de redistribución del voto entre partidos cercanos.
 
 ## Código
 
-```{r}
-# aquí irá el código
+\`\`\`{r} \# aquí irá el código

@@ -1,3 +1,8 @@
 ---
-title: "proyectos"
+title: "Proyectos"
 ---
+### El efecto Rufián
+
+Análisis del liderazgo de Gabriel Rufián y simulación electoral sobre su propuesta política de cara a 2027.
+
+[Ver análisis →](proyectos/efecto-rufian.qmd)
